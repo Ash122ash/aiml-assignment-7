@@ -1,0 +1,15 @@
+Observation 1
+
+The Elbow Method indicates that 5 clusters provide an appropriate balance between model complexity and within-cluster variation.
+
+Observation 2
+
+The K-Means algorithm successfully groups customers based on similarities in annual income and spending score, allowing meaningful customer segmentation.
+
+Observation 3
+
+PCA reduces the multidimensional dataset to two principal components while preserving most of the important information, making the customer clusters easier to visualize.
+
+Observation 4
+
+The identified customer groups represent different spending behaviours, such as high-income/high-spending customers, high-income/low-spending customers, average customers, and budget-conscious customers.

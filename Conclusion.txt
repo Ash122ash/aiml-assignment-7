@@ -1,0 +1,10 @@
+This project demonstrates customer segmentation using K-Means Clustering and Principal Component 
+Analysis (PCA). After preprocessing the data by removing unnecessary columns, encoding categorical 
+values, and standardizing the numerical features, the Elbow Method was used to determine the optimal 
+number of clusters. The K-Means algorithm successfully grouped customers with similar purchasing 
+behaviour, while PCA reduced the high-dimensional dataset to two principal components for effective 
+visualization. Customer segmentation enables businesses to identify different customer groups and 
+design targeted marketing strategies, personalized promotions, and loyalty programs. One limitation of 
+K-Means clustering is that the number of clusters must be specified in advance, and the algorithm is 
+sensitive to outliers. An important advantage of PCA is that it simplifies complex datasets while 
+preserving most of the useful information for visualization and analysis.
